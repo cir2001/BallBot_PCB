@@ -1,0 +1,47 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~BallBot_F407.PrjPcb|ReportField=ProjectFullPath~C:\Users\Administrator\Desktop\BallBot_F407-PCB\BallBot_F407.PrjPcb|ReportField=Title~Bill of Materials For Project [BallBot_F407.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~93|ReportField=ReportTime~22:18:54|ReportField=ReportDate~2025/11/29|ReportField=ReportDateTime~2025/11/29 22:18:54|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2025/11/29|ReportField=CurrentTime~22:18:51|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\Administrator\Desktop\BallBot_F407-PCB\Main.SchDoc|ReportField=DocumentName~Main.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2025/11/29|ReportField=Organization~|ReportField=ProjectName~BallBot_F407.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~BallBot_F407.PrjPcb|ReportField=DataSourceFullPath~C:\Users\Administrator\Desktop\BallBot_F407-PCB\BallBot_F407.PrjPcb
+1|J2P-7.4V|Connector|7.4V-in||CON2|1
+2|J1P-12V|Header, 4-Pin|12V-in|HDR1X4|Header 4|1
+3|J12O1|Header, 2-Pin|12V-O1|HDR1X2|Header 2|1
+4|J12O2|Header, 2-Pin|12V-O2|HDR1X2|Header 2|1
+5|J12O3|Header, 2-Pin|12V-O3|HDR1X2|Header 2|1
+6|J12O4|Header, 2-Pin|12V-O4|HDR1X2|Header 2|1
+7|22P|Capacitor|C1, C2||CAP|2
+8|Cap Semi|Capacitor (Semiconductor SIM Model)|C1P1, C1P3, C4, C5, C6, C8, C10, CM1, CM3|C1206|Cap Semi|9
+9|100u/25V|Electrolytic Capacitor|C1P2, C1P4||ELECTRO1|2
+10|100uF/36V|Electrolytic Capacitor|C2P1||ELECTRO1|1
+11|0.01uF/1206|Capacitor|C2P2||CAP|1
+12|0.1u|Capacitor|C2p4, C2P6, C3, Cc1||CAP|4
+13|220uF/16V|Electrolytic Capacitor|C2P3||ELECTRO1|1
+14|100u/16V|Electrolytic Capacitor|C2P7||ELECTRO1|1
+15|1000u/16V|Electrolytic Capacitor|C2p5||ELECTRO1|1
+16|10u/10V|Electrolytic Capacitor|C7, C9, C11, Cc2, CM2, CM4||ELECTRO1|6
+17|JCAN1|Header, 2-Pin|CAN1|HDR1X2|Header 2|1
+18|JCAN2|Header, 2-Pin|CAN1|HDR1X2|Header 2|1
+19|JCAN3|Header, 2-Pin|CAN3|HDR1X2|Header 2|1
+20|JCAN4|Header, 2-Pin|CAN4|HDR1X2|Header 2|1
+21|LED|Typical RED, GREEN, YELLOW, AMBER GaAs LED|D1, D2, D3, DLESP, DLHC, DLHC?, DLM, DLMO, DLMO, DLMPU, DLUART|3.2X1.6X1.1|LED2|11
+22|1N5819|Diode|D2P1||DIODE|1
+23|JUART3|Header, 3-Pin|DEBUG|HDR1X3|Header 3|1
+24|3K|Resistor|DLCAN, RLESP, RLHC, RLM, RLMO, RLMO, RLMPU, RLUART|AXIAL-0.4|Res2|8
+25|JESP|Header, 4-Pin|ESP-01S|HDR1X4|Header 4|1
+26|JBLE|Header, 4-Pin|HC-08|HDR1X4|Header 4|1
+27|SW-PB|Switch|K0, K1, RST|SPST-2|SW-PB|3
+28|100uH/1A||L2P1||INDUCTOR1|1
+29|JLCD|Header, 8-Pin|LCD|HDR1X8|Header 8|1
+30|JMPU|Header, 7-Pin|MPU6500|HDR1X7|Header 7|1
+31|Connect M1|Header, 6-Pin|P?|HDR1X6|Header 6|1
+32|Connect M2|Header, 6-Pin|P?|HDR1X6|Header 6|1
+33|Connect M3|Header, 6-Pin|P?|HDR1X6|Header 6|1
+34|Connect M4|Header, 6-Pin|P?|HDR1X6|Header 6|1
+35|1M||R1||RES2|1
+36|10K|Resistor|R2, R5, R6|AXIAL-0.4|Res2|3
+37|47||R3, R4||RES2|2
+38|JRAS|Header, 5-Pin|RASBERRY4|HDR1X5|Header 5|1
+39|Res2|Resistor|Rc1, Rc2, Rc3, Rc4, RD1, RD2, RD3|AXIAL-0.4|Res2|7
+40|JSWD|Header, 4-Pin|SWD|HDR1X4|Header 4|1
+41|SN65HVD230||UCAN||SN65HVD230|1
+42|TB6612FNG||UM-1, UM-2||TB6612FNG|2
+43|STM32F407VGT6||UMCU||STM32F407xx|1
+44|LM2596HVS-5V||UP1||LM2596HVS-5V|1
+45|1117-3.3||UP2||1117-3.3|1
+46|8MHz|Crystal|X1||CRYSTAL|1
